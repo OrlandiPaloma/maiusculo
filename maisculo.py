@@ -58,6 +58,7 @@ print(minhalista)
 minhastring = "o rato roeu a roupa do rei de Roma"
 minhalista = minhastring.split("r")
 print(minhalista)
+print('teste')
 
 '''
 .find("rei")
